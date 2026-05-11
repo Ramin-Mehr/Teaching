@@ -52,7 +52,7 @@ Python_Programming/
 │   ├── Sample/       # Example notebooks for each topic
 │   ├── Exercises/    # Practice notebooks for students
 │
-├── Intro             # Introductory material
+|
 ├── README.md         # This file
 ```
 
